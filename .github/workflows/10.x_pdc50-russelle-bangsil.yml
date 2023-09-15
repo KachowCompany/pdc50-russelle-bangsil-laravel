@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-russelle-bangsil'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36586B9E9CD640389BFC5356794E2011 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CC69BFB54A64CDD913E227A7636D4CE }}
           package: .
